@@ -2,7 +2,7 @@
 
 ---
 
-欢迎来到Sa的博客，博客具体文章请[移步这里](https://github.com/SangLiang/Blog/issues)
+欢迎来到Sa的博客，博客具体文章请[移步这里](https://sangliang.github.io/Timing-House/)
 
 作者水平有限，不对之处欢迎指出
 
